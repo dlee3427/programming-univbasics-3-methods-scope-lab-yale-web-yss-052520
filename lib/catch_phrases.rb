@@ -22,3 +22,5 @@ def link
   puts statement
 end
 statement
+
+end
