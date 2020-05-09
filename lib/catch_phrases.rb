@@ -1,5 +1,5 @@
-def all_phrases (Mario, toadstool, link)
-  phrase = "It's-a me, "
+def all_phrases
+  phrase
   toadstool
   link
 end
