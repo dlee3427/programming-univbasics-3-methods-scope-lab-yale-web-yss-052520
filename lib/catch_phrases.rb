@@ -9,6 +9,10 @@ def toadstool
 end 
 
 def link
-  link = 
+  statement = "It's Dangerous To Go Alone! Take This."
+  puts statement
+end
+
+puts mario toadstool link
 
 
