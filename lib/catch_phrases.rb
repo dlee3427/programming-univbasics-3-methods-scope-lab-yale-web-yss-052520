@@ -4,5 +4,5 @@ def mario
 end
 phrase 
 
-def link 
-  phre
+def toadstool
+  status 
