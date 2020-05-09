@@ -18,7 +18,7 @@ end
 status
 
 def link
-  statement = "It's Dangerous To Go ALone! Take This."
+  statement = "It's Dangerous To Go Alone! Take This."
   puts statement
 end
 statement
