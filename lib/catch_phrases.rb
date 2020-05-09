@@ -1,5 +1,5 @@
 def all_phrases
-  phrase
+  mario
   toadstool
   link
 end
