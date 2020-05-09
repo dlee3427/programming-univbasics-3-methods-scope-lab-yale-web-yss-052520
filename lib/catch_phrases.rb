@@ -19,7 +19,6 @@ def link
   puts statement
 end
 
-puts mario toadstool link
 
 
 
