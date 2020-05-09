@@ -8,17 +8,18 @@ end
 def mario
   phrase = "It's-a me, Mario!"
   puts phrase
+  phrase
 end
-phrase
+
 
 def toadstool
   status = "Thank You Mario! But Our Princess Is In Another Castle!"
   puts status
+  status
 end 
-status
 
 def link
   statement = "It's Dangerous To Go ALone! Take This."
   puts statement
+  statement
 end
-statement
